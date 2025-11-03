@@ -14,4 +14,3 @@ jobs:
       - run:
           name: Run tests
           command: python3 -m unittest test_wmata_api.py
-      
